@@ -158,4 +158,5 @@ dogImages/
 data/
 old_runs/
 
-
+# Pickle
+*.pkl
